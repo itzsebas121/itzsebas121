@@ -45,7 +45,7 @@
   🌐 [sebastore.netlify.app](https://sebastore.netlify.app/)
 
 - 📦 **Delivery Tracker** – Real-time delivery system using Leaflet and geolocation, built for logistics/delivery scenarios.
-🌐 [hot-grill.netlify.app](https://hot-grill.netlify.app/)
+  🌐 [hot-grill.netlify.app](https://hot-grill.netlify.app/)
 
 - 📊 **SSAS Dashboard** – Interactive business dashboard powered by multidimensional cubes and Excel BI.
 
