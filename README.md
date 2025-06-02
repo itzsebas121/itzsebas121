@@ -11,9 +11,8 @@ I'm an Information Technology student passionate about web and mobile developmen
 - 🧠 **Databases:** SQL Server, MySQL
 - 🔐 **Authentication:** JWT, `HASHBYTES` in SQL Server
 - 📊 **BI / Data:** SSAS, Power BI, Excel BI
-- ☁️ **Deployment:** Vercel, Netlify
+- ☁️ **Deployment:** Vercel, Netlify, Azure, AWS
 
----
 
 ## 📈 My GitHub Stats
 
@@ -26,7 +25,7 @@ I'm an Information Technology student passionate about web and mobile developmen
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzsebas121&layout=pie&theme=tokyonight)](https://github.com/itzsebas121/github-readme-stats)
 
 </div>
----
+
 
 ## 📌 Ongoing Projects
 
