@@ -17,10 +17,15 @@ I'm an Information Technology student passionate about web and mobile developmen
 
 ## 📈 My GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itzsebas121&theme=tokyonight-duo)](https://git.io/streak-stats)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzsebas121&show_icons=true&theme=tokyonight)](https://github.com/itzsebas121/github-readme-stats)  
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itzsebas121&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzsebas121&show_icons=true&theme=tokyonight)](https://github.com/itzsebas121/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzsebas121&layout=pie&theme=tokyonight)](https://github.com/itzsebas121/github-readme-stats)
 
+</div>
 ---
 
 ## 📌 Ongoing Projects
