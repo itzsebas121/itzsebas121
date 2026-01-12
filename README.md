@@ -14,9 +14,9 @@ Building secure, scalable and real-world applications
 ## 🧠 About Me
 
 - 💻 Information Technology student
-- 🔐 Focused on **secure authentication & backend logic**
-- 🧱 Clean architectures, not spaghetti
-- 🚀 I build projects that **actually deploy**
+- 🔐 Strong focus on **authentication, authorization & backend logic**
+- 🧱 Clean architectures over quick hacks
+- 🚀 I build systems that **actually deploy and scale**
 
 ---
 
@@ -38,40 +38,74 @@ Building secure, scalable and real-world applications
 
 ---
 
-## 📊 GitHub Stats (estables)
+## 🧩 Developer Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzsebas121&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsebas121&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</p>
+- 🏗️ Full-stack apps (Web & Mobile)
+- 🔐 Secure login systems (JWT, roles, hashing)
+- 📡 REST APIs & backend services
+- 🗄️ Relational & NoSQL databases
+- 📊 BI dashboards & data analysis
+- ☁️ Cloud deployment (Vercel, Netlify, Azure, AWS)
 
 ---
 
-## 🚀 Projects
+## 🛠️ How I Work
+
+1. Understand the problem (real use case)
+2. Design clean architecture
+3. Build backend logic first
+4. Secure everything
+5. Connect frontend
+6. Deploy & iterate
+
+No tutorial junk. No copy–paste systems.
+
+---
+
+## 🚀 Selected Projects
 
 ### 🛒 SebaStore
-Full-stack sales system with JWT authentication, role management and admin dashboard.  
+Full-stack sales system with authentication, roles and admin dashboard.
+
+**Highlights**
+- JWT authentication
+- Role-based access
+- REST API
+- React frontend
+
 🔗 https://sebastore.netlify.app/
 
+---
+
 ### 📦 Delivery Tracker
-Real-time delivery tracking with maps and geolocation.  
+Real-time delivery tracking system for logistics scenarios.
+
+**Highlights**
+- Geolocation
+- Map visualization
+- Delivery workflow
+
 🔗 https://hot-grill.netlify.app/
 
-### 📊 BI Dashboard
-Business Intelligence dashboards using SSAS & Excel BI.
+---
+
+### 📊 BI Dashboard (SSAS)
+Business Intelligence dashboards using multidimensional cubes.
+
+**Highlights**
+- KPIs
+- Sales analysis
+- Excel & SSAS integration
 
 ---
 
 ## 🎯 What I Care About
 
 - Clean and maintainable code
-- Secure authentication
-- Scalable systems
-- Real use cases
-- Continuous improvement
+- Security by default
+- Scalable solutions
+- Real-world impact
+- Constant improvement
 
 ---
 
