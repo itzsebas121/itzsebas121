@@ -23,20 +23,24 @@ Building secure, scalable and real-world applications
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,astro,flutter,nodejs,express,php,dotnet,python&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter&perline=4" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws,vercel,netlify&perline=7" />
+  <img src="https://skillicons.dev/icons?i=angular,astro,php,dotnet,python&perline=5" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-Advanced-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Auth-JWT-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/BI-PowerBI%20%7C%20SSAS-yellow?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws,vercel,netlify&perline=6" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-JWT%20Auth-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/BI-Power%20BI%20%7C%20SSAS-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/DB-SQL%20Server-blue?style=flat-square" />
+</p>
+
+
 
 ## 🧩 Developer Snapshot
 
