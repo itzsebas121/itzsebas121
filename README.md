@@ -1,22 +1,40 @@
-<h1 align="center">👋 Sebas</h1>
-
 <p align="center">
-<strong>Full-Stack Developer · IT Student</strong><br>
-Building secure, scalable and real-world applications
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=180&section=header&text=Sebas%20Tipan&fontSize=48&fontAlignY=35&desc=Full-Stack%20Developer%20·%20IT%20Student&descAlignY=55&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Full-Stack+Web+%26+Mobile;JWT+Auth+%7C+REST+APIs;Dashboards+%26+BI;From+Idea+to+Deployment" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1100&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+secure+and+scalable+applications;JWT+Authentication+%7C+REST+APIs;Dashboards+%7C+BI+Systems;From+Idea+to+Deployment" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend-first+mindset;Security+by+default;JWT%2C+Roles%2C+Hashing;Clean+Architecture+over+hacks;From+idea+to+production" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,flutter,php,dotnet,mysql,mongodb,azure,aws&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-JWT%20%7C%20Roles%20%7C%20Hashing-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deploy-Production%20Ready-success?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub>
+    I don’t build demos. I build systems that deploy, scale and survive real users.
+  </sub>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Information Technology student
-- 🔐 Strong focus on **authentication, authorization & backend logic**
-- 🧱 Clean architectures over quick hacks
-- 🚀 I build systems that **actually deploy and scale**
+I’m an **Information Technology student and backend-focused full-stack developer**.  
+I care about **how things work under the hood**: security, architecture, data flow and deployment.
+
+I don’t chase trends.  
+I build **clean, secure and scalable systems** that are meant to be used — not abandoned after a demo.
 
 ---
 
@@ -35,89 +53,48 @@ Building secure, scalable and real-world applications
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security-JWT%20Auth-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Auth-JWT-red?style=flat-square" />
   <img src="https://img.shields.io/badge/BI-Power%20BI%20%7C%20SSAS-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/DB-SQL%20Server-blue?style=flat-square" />
 </p>
 
-
+---
 
 ## 🧩 Developer Snapshot
 
-- 🏗️ Full-stack apps (Web & Mobile)
-- 🔐 Secure login systems (JWT, roles, hashing)
+- 🏗️ Full-stack applications (Web & Mobile)
+- 🔐 Secure authentication systems (JWT, roles, hashing)
 - 📡 REST APIs & backend services
 - 🗄️ Relational & NoSQL databases
 - 📊 BI dashboards & data analysis
-- ☁️ Cloud deployment (Vercel, Netlify, Azure, AWS)
+- ☁️ Cloud deployments (Vercel, Netlify, Azure, AWS)
 
 ---
 
 ## 🛠️ How I Work
 
-1. Understand the problem (real use case)
+1. Understand the real problem
 2. Design clean architecture
 3. Build backend logic first
 4. Secure everything
 5. Connect frontend
-6. Deploy & iterate
+6. Deploy, test, iterate
 
-No tutorial junk. No copy–paste systems.
 
----
-
-## 🚀 Selected Projects
-
-### 🛒 SebaStore
-Full-stack sales system with authentication, roles and admin dashboard.
-
-**Highlights**
-- JWT authentication
-- Role-based access
-- REST API
-- React frontend
-
-🔗 https://sebastore.netlify.app/
-
----
-
-### 📦 Delivery Tracker
-Real-time delivery tracking system for logistics scenarios.
-
-**Highlights**
-- Geolocation
-- Map visualization
-- Delivery workflow
-
-🔗 https://hot-grill.netlify.app/
-
----
-
-### 📊 BI Dashboard (SSAS)
-Business Intelligence dashboards using multidimensional cubes.
-
-**Highlights**
-- KPIs
-- Sales analysis
-- Excel & SSAS integration
-
----
-
-## 🎯 What I Care About
-
-- Clean and maintainable code
-- Security by default
-- Scalable solutions
-- Real-world impact
-- Constant improvement
-
----
-
-## 📬 Contact
-
-🌐 https://itzsebasdev.netlify.app  
-📧 sebastipan109@gmail.com
 
 <p align="center">
-<i>Build it clean. Secure it. Ship it.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=120&section=footer&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Sebas+%7C+Full-Stack+Developer;Clean+Code.+Secure+Systems.;Build.+Deploy.+Iterate." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Got+a+project+in+mind%3F;Need+a+full-stack+solution%3F;Let%E2%80%99s+build+something+real." />
+</p>
+
+<p align="center">
+  <a href="https://sebasdev.site"><b>👉 View Portfolio</b></a> &nbsp;|&nbsp;
+  <a href="mailto:sebastipan109@gmail.com"><b>✉️ Contact Me</b></a>
 </p>
