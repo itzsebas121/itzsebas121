@@ -1,79 +1,26 @@
-<h1 align="center">👋 Hey, I'm Sebas</h1>
-<h3 align="center">Full-Stack Developer | IT Student | Real-World Builder</h3>
+<h1 align="center">👋 Hi, I'm Sebas</h1>
+<h3 align="center">Full-Stack Developer · IT Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Clean+Code+%3E+Quick+Fixes;JWT+%7C+APIs+%7C+Dashboards;From+Idea+to+Production;Always+Learning%2C+Always+Shipping" />
-</p>
-
-<p align="center">
-💻 Information Technology student focused on building scalable web & mobile applications.<br>
-🔐 Strong backend logic, secure authentication and clean architectures.<br>
-🚀 I don’t just code — I deploy, test and improve.
+  I build real-world web & mobile applications.<br>
+  Clean code, secure auth, scalable systems.
 </p>
 
 ---
 
 ## 🧠 Tech Stack
 
-### Frontend
-- React
-- Astro
-- Angular
-- Flutter
-- HTML, CSS, JavaScript, TypeScript
-
-### Backend
-- Node.js
-- Express
-- PHP
-- .NET
-- Python
-
-### Databases
-- SQL Server
-- MySQL
-- Oracle
-- MongoDB
-
-### Auth & Security
-- JWT
-- Password hashing
-- Role-based access control
-
-### BI & Analytics
-- Power BI
-- SSAS (Multidimensional & Tabular)
-- Excel BI
-
-### Cloud & Deployment
-- Vercel
-- Netlify
-- Azure
-- AWS
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,astro,angular,flutter,nodejs,express,php,dotnet,python,mysql,mongodb,azure,aws,vercel,netlify&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,nodejs,express,php,dotnet,python,mysql,mongodb,azure,aws,vercel,netlify&perline=7" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (sin maquillaje)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzsebas121&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itzsebas121&theme=tokyonight-duo&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsebas121&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzsebas121&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzsebas121&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itzsebas121&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -81,55 +28,31 @@
 ## 🚀 Featured Projects
 
 ### 🛒 SebaStore
-**Full-stack sales system** with JWT authentication, role control, admin dashboard and responsive React frontend.
-
-- Secure login & roles
-- REST API
-- Deployed on Netlify & Vercel  
-
-🌐 https://sebastore.netlify.app/
-
----
+Full-stack sales system with JWT authentication, roles, admin dashboard and React frontend.  
+🔗 https://sebastore.netlify.app/
 
 ### 📦 Delivery Tracker
-**Real-time delivery system** using maps and geolocation for logistics scenarios.
+Real-time delivery tracking using maps and geolocation.  
+🔗 https://hot-grill.netlify.app/
 
-- Live location
-- Route visualization
-- Delivery flow management  
-
-🌐 https://hot-grill.netlify.app/
+### 📊 BI Dashboard (SSAS)
+Business intelligence dashboard with KPIs and multidimensional analysis.
 
 ---
 
-### 📊 SSAS BI Dashboard
-**Business Intelligence dashboard** powered by multidimensional cubes.
-
-- KPIs
-- Sales analysis
-- Employee performance
-- Excel & SSAS integration
-
----
-
-## 📌 What I Focus On
-- Writing clean, maintainable code
-- Secure authentication & authorization
-- Scalable architectures
-- Real projects, not tutorial junk
-- Constant improvement
+## 🎯 Focus
+- Secure authentication (JWT, roles)
+- Clean & maintainable code
+- APIs & dashboards
+- Real projects, no tutorial junk
 
 ---
 
 ## 📬 Contact
 
-<p align="center">
-🌐 <a href="https://itzsebasdev.netlify.app/">itzsebasdev.netlify.app</a><br>
-📧 <a href="mailto:sebastipan109@gmail.com">sebastipan109@gmail.com</a>
-</p>
+🌐 https://itzsebasdev.netlify.app  
+📧 sebastipan109@gmail.com  
 
 ---
 
-<p align="center">
-  <i>“Make it work. Make it right. Make it fast.”</i>
-</p>
+<p align="center"><i>Make it work. Make it right. Make it fast.</i></p>
