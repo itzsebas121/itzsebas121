@@ -43,7 +43,6 @@ I build **clean, secure and scalable systems** that are meant to be used — not
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter&perline=4" />
 </p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,astro,php,dotnet,python&perline=5" />
 </p>
