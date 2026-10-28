@@ -94,6 +94,6 @@ I build **clean, secure and scalable systems** that are meant to be used — not
 </p>
 
 <p align="center">
-  <a href="https://sebasdev.site"><b>👉 View Portfolio</b></a> &nbsp;|&nbsp;
+  <a href="https://sebasdev.shop"><b>👉 View Portfolio</b></a> &nbsp;|&nbsp;
   <a href="mailto:sebastipan109@gmail.com"><b>✉️ Contact Me</b></a>
 </p>
