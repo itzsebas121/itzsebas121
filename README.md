@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=180&section=header&text=Sebas%20Tipan&fontSize=48&fontAlignY=35&desc=Full-Stack%20Developer%20·%20IT%20Student&descAlignY=55&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=180&section=header&text=Sebas%20Tipan&fontSize=48&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20IT%20Student&descAlignY=55&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -7,93 +7,70 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend-first+mindset;Security+by+default;JWT%2C+Roles%2C+Hashing;Clean+Architecture+over+hacks;From+idea+to+production" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,flutter,php,dotnet,mysql,mongodb,azure,aws&perline=10" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-JWT%20%7C%20Roles%20%7C%20Hashing-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deploy-Production%20Ready-success?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <sub>
-    I don’t build demos. I build systems that deploy, scale and survive real users.
-  </sub>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-1f6feb?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-JWT%20%7C%20Roles%20%7C%20Hashing-critical?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deploy-Production%20Ready-success?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I’m an **Information Technology student and backend-focused full-stack developer**.  
-I care about **how things work under the hood**: security, architecture, data flow and deployment.
-
-I don’t chase trends.  
-I build **clean, secure and scalable systems** that are meant to be used — not abandoned after a demo.
+Information Technology student and backend-focused full-stack developer.  
+Focused on system architecture, API design, authentication, data modeling, and cloud deployment for web and mobile applications.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter&perline=4" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,astro,php,dotnet,python&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,dotnet,php,python&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws,vercel,netlify&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,flutter,tailwind&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Auth-JWT-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/BI-Power%20BI%20%7C%20SSAS-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/DB-SQL%20Server-blue?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,azure,aws,vercel,netlify&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Auth-JWT-dc2626?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/BI-Power%20BI%20%7C%20SSAS-d97706?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DB-SQL%20Server-2563eb?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ---
 
-## 🧩 Developer Snapshot
+## GitHub Stats
 
-- 🏗️ Full-stack applications (Web & Mobile)
-- 🔐 Secure authentication systems (JWT, roles, hashing)
-- 📡 REST APIs & backend services
-- 🗄️ Relational & NoSQL databases
-- 📊 BI dashboards & data analysis
-- ☁️ Cloud deployments (Vercel, Netlify, Azure, AWS)
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzsebas121&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzsebas121&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzsebas121&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzsebas121&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itzsebas121&theme=github-dark-blue&background=0D1117&border=1E3A8A&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8" />
+</p>
 
 ---
 
-## 🛠️ How I Work
-
-1. Understand the real problem
-2. Design clean architecture
-3. Build backend logic first
-4. Secure everything
-5. Connect frontend
-6. Deploy, test, iterate
-
-
+<p align="center">
+  <a href="https://sebasdev.shop">
+    <img src="https://img.shields.io/badge/View%20Portfolio-sebasdev.shop-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sebastipan109@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-sebastipan109%40gmail.com-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=120&section=footer&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Sebas+%7C+Full-Stack+Developer;Clean+Code.+Secure+Systems.;Build.+Deploy.+Iterate." />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Got+a+project+in+mind%3F;Need+a+full-stack+solution%3F;Let%E2%80%99s+build+something+real." />
-</p>
-
-<p align="center">
-  <a href="https://sebasdev.shop"><b>👉 View Portfolio</b></a> &nbsp;|&nbsp;
-  <a href="mailto:sebastipan109@gmail.com"><b>✉️ Contact Me</b></a>
 </p>
