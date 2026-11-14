@@ -46,13 +46,8 @@ Focused on system architecture, API design, authentication, data modeling, and c
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzsebas121&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzsebas121&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzsebas121&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzsebas121&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzsebas121&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzsebas121&theme=github_dark" />
 </p>
 
 <p align="center">
