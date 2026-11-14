@@ -42,30 +42,12 @@ Focused on system architecture, API design, authentication, data modeling, and c
 </p>
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzsebas121&theme=github_dark" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzsebas121&theme=github_dark" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzsebas121&theme=github_dark" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzsebas121&theme=github_dark" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itzsebas121&theme=github-dark-blue&background=0D1117&border=1E3A8A&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://sebasdev.shop">
-    <img src="https://img.shields.io/badge/View%20Portfolio-sebasdev.shop-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sebastipan109@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-sebastipan109%40gmail.com-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=120&section=footer&animation=fadeIn" />
 </p>
